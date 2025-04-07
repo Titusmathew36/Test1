@@ -1,2 +1,1 @@
-
-No change.
+The change has been noted.
