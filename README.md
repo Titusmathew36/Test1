@@ -1,2 +1,1 @@
-
-Big Change
+The change has been noted.
